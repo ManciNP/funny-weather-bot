@@ -1,0 +1,1 @@
+worker: python funny_weather_bot.py
